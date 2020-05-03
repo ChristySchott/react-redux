@@ -30,9 +30,14 @@ Para executar esse repositório primeiramente baixe os arquivos desse repositór
 Esse projeto foi desenvolvido no curso Modern React with Redux, e como nesse módulo do curso foi introduzido o Redux, utilizei muito ele. Também utilizei a Semantic UI, uma biblioteca de componentes de interface do usuário (UI).
 ## 🎨 Layout
 
+Arquitetura: 
+
+![Layout do projeto](https://github.com/ChristySchott/react-redux/blob/master/picture2.png)
+
 Layout: 
 
-![Layout do projeto](https://github.com/ChristySchott/react-redux/blob/master/projeto1.jpg)
+![Layout do projeto](https://github.com/ChristySchott/react-redux/blob/master/picture3.png)
+
 
 
 ### Aprendizados:
