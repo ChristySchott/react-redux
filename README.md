@@ -36,7 +36,7 @@ Arquitetura:
 
 Layout: 
 
-![Layout do projeto](https://github.com/ChristySchott/react-redux/blob/master/picture3.png)
+![Layout do projeto](https://github.com/ChristySchott/react-redux/blob/master/projeto1.png)
 
 
 
